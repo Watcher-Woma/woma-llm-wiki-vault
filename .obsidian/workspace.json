@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "c56ea85003a512f8",
+        "id": "87c6d5c0bbcb5c7f",
         "type": "tabs",
         "children": [
           {
-            "id": "96d12a29df8d6cae",
+            "id": "a7fa29a571a5a842",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "CLAUDE.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "CLAUDE"
             }
           }
         ]
@@ -74,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 252.5
   },
   "right": {
     "id": "411305930f968e65",
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "CLAUDE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "反向链接"
+              "title": "CLAUDE 的反向链接列表"
             }
           },
           {
@@ -108,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "CLAUDE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "出链"
+              "title": "CLAUDE 的出链列表"
             }
           },
           {
@@ -150,12 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "CLAUDE.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "CLAUDE 的大纲"
             }
           }
         ]
@@ -176,6 +183,13 @@
       "bases:新建数据库": false
     }
   },
-  "active": "96d12a29df8d6cae",
-  "lastOpenFiles": []
+  "active": "a7fa29a571a5a842",
+  "lastOpenFiles": [
+    "assets/hq720.jpg",
+    "assets/Karpathy LLM Wiki.png",
+    "wiki/index.md",
+    "raw/01-articles/Prompt Engineering in 2025_ Complete Guide for ChatGPT, Claude, and Gemini.md",
+    "raw/01-articles/提示设计策略  _  Gemini API.md",
+    "CLAUDE.md"
+  ]
 }
