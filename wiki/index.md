@@ -39,18 +39,21 @@
 - [[Few_Shot_Prompting]] — 少样本提示：通过示例引导模型
 - [[Chain_of_Thought]] — 思维链：要求模型展示推理步骤
 
+### AI 模型
+- [[ChatGPT]] — OpenAI GPT-4/5 模型（待创建）
+
 ### 提示框架
 - [[5C_Framework]] — 5C Prompt Contract：极简、token高效的提示设计框架
-- [[APE_Framework]] — APE 框架：Action + Purpose + Expectation
-- [[CO-STAR_Framework]] — CO-STAR 框架：内容创作专用框架
-- [[RISEN_Framework]] — RISEN 框架：复杂多步骤任务框架
 - [[CRAFT_Framework]] — CRAFT 框架：Context + Role + Action + Format + Tone
-- [[POWER_Framework]] — POWER 框架：Purpose + Output + Working + Examples + Refinement
+- [[APE_Framework]] — APE 框架：Action + Purpose + Expectation（待创建）
+- [[CO-STAR_Framework]] — CO-STAR 框架：内容创作专用框架（待创建）
+- [[RISEN_Framework]] — RISEN 框架：复杂多步骤任务框架（待创建）
+- [[POWER_Framework]] — POWER 框架：Purpose + Output + Working + Examples + Refinement（待创建）
 
 ### 高级技术
-- [[ReAct]] — ReAct：推理与行动结合的代理范式
-- [[Tree_of_Thoughts]] — 思维树：同时探索多条推理路径
-- [[RAG]] — 检索增强生成：结合外部知识库
+- [[ReAct]] — ReAct：推理与行动结合的代理范式（待创建）
+- [[Tree_of_Thoughts]] — 思维树：同时探索多条推理路径（待创建）
+- [[RAG]] — 检索增强生成：结合外部知识库（待创建）
 
 ---
 
@@ -62,4 +65,4 @@
 
 ---
 
-*最后更新：2026-04-12*
+*最后更新：2026-04-21*

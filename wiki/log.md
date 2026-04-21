@@ -69,6 +69,39 @@
 
 ---
 
+## [2026-04-21] query | 基于5C Framework设计Markdown知识笔记提示词
+- **输出**: [[5c-prompt-markdown-note-taking]]（已存在，直接引用）
+
+---
+
+## [2026-04-21] ingest | 补充分级框架与提示技术页面
+
+### 触发来源
+- `raw/09-archive/The Complete Prompt Engineering Guide (2025).md`（已归档状态）
+
+### 创建的页面
+
+| 页面 | 类型 | 来源 | 备注 |
+|------|------|------|------|
+| [[CRAFT_Framework]] | concept | BrilliantPrompts 指南 | 修复死链 |
+| [[Zero_Shot_Prompting]] | concept | PromptBuilder 指南 | 修复死链 |
+
+### 修复的死链
+
+**已修复：**
+- `[[CRAFT_Framework]]` — 摘要-complete-prompt-engineering-guide-2025.md 中的引用
+- `[[Zero_Shot_Prompting]]` — Prompt_Engineering.md 中的引用
+
+**仍待创建（已标注为"待创建"）：**
+- APE_Framework、CO-STAR_Framework、RISEN_Framework、POWER_Framework
+- ReAct、Tree_of_Thoughts、RAG
+- ChatGPT、DeepMind 等实体
+
+### 更新文件
+- [[index.md]] — 同步索引，标注待创建页面
+
+---
+
 ## [2026-04-12] query | 基于 5C Framework 设计 Markdown 笔记提示词
 
 - **查询**: 根据 5C Framework 设计撰写 Markdown 格式知识笔记的提示词
